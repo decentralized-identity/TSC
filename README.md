@@ -10,7 +10,7 @@ Technical Steering Committee (“TSC”)
     - The Executive Director will be an honorary member and invited to attend all meetings and discussions thereof.
     - By consensus of the TSC, additional members can be invited , given that they provide substantial input in furtherance of the strategic technical direction and interoperability goals set by the TSC (see Responsibilities, below). These do not count towards the maximum of 11 members, but should be capped at 3.
 - Chairship​.
-    - The TSC shall ​elect ​a TSC Chair, who will also serve as a voting member of the Steering Committee, and is expected to actively represent the technical working groups rather than any company (whether a DIF member org or not) with which they may have an ownership and/or employment relationship.
+    - The TSC shall ​elect a TSC Chair, who will also serve as a voting member of the Steering Committee, and is expected to actively represent the technical working groups rather than any company (whether a DIF member org or not) with which they may have an ownership and/or employment relationship.
 - Responsibilities​. The TSC is collectively responsible for:
     - Defining a DIF-wide technical strategy, and coordinating the work items across various working groups accordingly.
     - Reviewing work items before they can be ​published​ as an “Approved Deliverable”.
