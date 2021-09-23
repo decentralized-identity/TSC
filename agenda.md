@@ -16,21 +16,22 @@ _The term "WG" stands for Working Group_
 - _invited: Balazs N, Chris K, Juan C,_
 
 ### Agenda
-- Reminder of the upcoming IIW conference
-- [Discuss the language to clarify participation and voting mechanism](https://github.com/decentralized-identity/TSC/pull/1) 
-- Work item donation discussion
-    - Who can donate? 
-    - What can be donated? 
-        - Would DIF just accept any work item, or there is a review process? 
-        - Accepting donation can be liberal, but the donor should align first with the similar work item (or WG) before attempting to donate
-    - Who makes final decision to donate?
-        - TSC might be the place to review planned donations 
-            - Including encouraging the donor to align with similar work items already in DIF before donation happens 
-- What are Interop profiles
-    - DIF values should represent "umbrella" and not selecting certain technologies 
-    - Interop Profils might not affect IPR related questions 
-- WG chair note taking practices
-    - if WG chairs have hard time to lead and take notes, they should consider collaborating with the community 
-- In case of chairs failing to adhere to their responsibilities
-    - Chairs in this situation can ask for support/tips from chairs of other WGs
-    - A notification to be sent to the chairs reminding them of their duties, or their chair roles will be withdrawn and the group will elect new chairs
+
+* A reminder of the upcoming IIW conference
+* [Discuss the language to clarify participation and voting mechanism](https://github.com/decentralized-identity/TSC/pull/1) 
+* Work item donation discussion
+    * Who can donate?
+    * What can be donated?
+    * Would DIF just accept any work item, or there is a review process?
+    * Accepting donation can be liberal, but the donor should align first with the similar work item (or WG) before attempting to donate
+* Who makes the final decision to donate?
+    * TSC might be the place to review planned donations
+        * Including encouraging the donor to align with similar work items already in DIF before donation happens
+* What are Interop profiles?
+    * DIF values should represent "umbrella" and not selecting certain technologies
+    * Interop Profiles might not affect IPR related questions
+* WG chair note-taking practices
+    * if WG chairs have a hard time to lead and take notes, they should consider collaborating with the community
+* In case of chairs failing to adhere to their responsibilities
+    * Chairs in this situation can ask for support/tips from chairs of other WGs
+    * Notification to be sent to the chairs reminding them of their duties, or their chair roles will be withdrawn and the group will elect new chairs
