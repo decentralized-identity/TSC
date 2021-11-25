@@ -9,7 +9,7 @@ _The term "WG" stands for Working Group_
 
 ## Meeting - 24 November 2021 - (1300 ET)
 
-### present: Kyle, Juan, Sam, Troy, Kaliya, Paul, Dmitri, Rouven, Chris, Balazs
+### present: Kaliya, Kyle, Juan, Sam, Brent, Troy, Paul, Dmitri, Rouven, Chris, Balazs
 
 - DIF updates 
 - Profiles discussion
