@@ -71,3 +71,167 @@ _The term "WG" stands for Working Group_
 * In case of chairs failing to adhere to their responsibilities
     * Chairs in this situation can ask for support/tips from chairs of other WGs
     * Notification to be sent to the chairs reminding them of their duties, or their chair roles will be withdrawn and the group will elect new chairs
+
+
+
+## Meeting - 26 August 2021 - (1300 ET)
+
+### Present
+*  Brent, Daniel, Kaliya, Rouven, Troy, Oliver, Sam C, + Balazs 
+
+### Agenda
+* Who's in the SC?* 
+    * Proposal: 
+        * Each Working Group chair is also automatically a member of the TSC. However, decision-making within the TSC is limited to **one vote per WG**. This way each WG can weigh in on all topics, and all WGs receive the same level of representation.
+        * Each WG is requested to send at least one chair to each TSC meeting. This is to ensure information continuity and decision-making power for the group.
+        * About the WG chair's representation role. 
+        * Is the chair represents her/his opinion or the WG's? 
+        * It represents Personal + Company + WG's 
+    * Chairs of the WGs are empowered to make certain decisions. If the decisions are not according to the WG it can replace them. 
+    * Next steps:
+        *  wording to the final proposal with a focus on: 
+        *  Who get’s the vote? -- in case of conflict
+
+* Website updates.
+    * Simplified WG page update mechanism 
+
+* Use GitHub (Issues) and interactions for decision making 
+    * Pros and Cons discusses. 
+    * Decisions to be public
+
+
+## Meeting - 28 July 2021 - (1300 ET)
+
+### Agenda
+- Troy is supported to be the TSC chair
+- review deadline: 
+    - high number of open work-items
+    - auto/archiving or passive archiving
+    - urgency is still there but it allows groups to let work not prioritized to not go to archive state
+    - archived is not abandoned
+    - One thing we could do: best estimate for finishing the work 
+        - what the hammer looks like?
+    - if no point at all, then it is not a motivating factor
+    - If you miss the deadline to reapply for a new one
+    - w3c hammer is harsh
+    - Let's change abandoned to archived 
+        - file an anticipated review/completion date
+    - Project page  - but it is not really accountable 
+        - send email to tsc when new work item starts
+        - 6 monthly house keeping of code and specs
+- PDF - save the whole directory 
+    - Daniel get's a date to each
+
+
+## Meeting - 7 July 2021 - (1300 ET)
+
+### Agenda
+
+1. Who are part of the TSC (with voting rights)
+    - 1 vote per [IPR-protected] WG?
+    - TSC chair** over email**? 
+    - 1 week nomination deadline?
+2. Are we ready to organize a next F2F Virtual event (eg on the Wed 1st or Tue 7th of September?)
+    - reminder 12-14 Oct is IIW
+        - it might be good to have it a month in advance 
+    - Labour day (6th Sept) - followed by first day of school/work for Autumn
+    - Sept - 14th / 15th - **continue over email**
+3. Decision on “Acknowledgments” in Specs.
+    - next step: add to template? add to /org/ work item lifecycle document?
+4. Timelines for Specs (work items) - finish discussion
+    - punt til next meeting to structure with more concrete/specific questions for the group
+5. Prepare chair onboarding page, what it should contain?
+    - intended for incoming chairs, but open to the public (on website organizational section)
+    - topics it should cover- best practices & requirements?
+        - minutes?
+        - chairchats - frequency, DIF infra
+        - IPR requirements?
+6. Universal Resolver service update (Markus)
+    - dev/experimental (hosted by DIF); "stable" (hosted by IBM) could be stabler
+        - casting around for other hosts - some volunteer companies in IDWG - weekly UR calls have refined this
+        - arbitrary number of additional instances hosted by participants in UR program (linked from DIF's hosted version?)
+        - listed known instances (on a dif hosted page)
+            - differences could be captured between different implementations 
+            - [Registry](https://github.com/peacekeeper/universal-resolver/blob/peacekeeper-hosting-info/docs/instances/instances.md) of UR instances?
+            - DNS round robin approach - random.uniresolver.io points to any registered instance (but each running a different version or subset)
+    - [PR](https://github.com/decentralized-identity/universal-resolver/pull/214
+) is open if people have opinions!
+    - Balázs: posting the PR to Slack #general might get some unexpected voices... worth a shot?
+    - to keep PR open for a few more weeks
+8. W3C DID test suite hosting
+    - https://github.com/w3c/did-test-suite/issues/135 <-- this 
+    - stateless, no storage; no user-interface, JUST a service accepting endpoints and returning test results (REST?)
+    - AWS K8S cluster could host this, minimal resource outlay or complexity
+        - ID WG/Danube maintaining? Accept volunteers over time? 
+        - did-test-suite.identity.foundation 
+    - Oliver - if companies incorporate this test suite into their CI/CD, could this give people some kind of "green checkmark" or trustmark?
+        - Markus: Importantly, this is a W3C test suite, maintained and governed there
+        - further discussions at ID WG call(s) 
+9. other topics?
+    - re-think voting mechanisms at DIF +1
+        12. (not in this group, only a heads up)
+    - Sam: Does TSC decide moving WGs to other orgs?
+        - SC 
+
+
+## Meeting - 31 April 2021 - (1300 ET)
+
+### Present
+- Rouven, Charles, Daniel B, Daniel McGrogan, Dmitri, Juan, Kaliya, Markus, Martin, Oliver, Troy, Wayne, Balazs
+
+### Agenda
+
+- Universal Resolver: 
+    - Governance and Hosting 
+    - load balancing between different companies? 
+    - Charles L. suggested an interesting approach to redirect non supported DID to an other UR that works
+- DIDComm PeX
+    - one WG influences an other group - potentially a discussion
+    - DIDcomm is in charge to drive didcomm and its their requirement to plan
+        - as long as it stays civil, Martin is ok to resolve in the group
+    - Lets not use one WG an other as an influence
+    - Daniel Hardman as invited expert?
+- Wallet Security WG:
+    - mostly about wallet assurance (this is secure, this is not)
+    - less about interoperability
+- Crypto WG
+    - recovation?
+    - crypto WG in DIF
+    - to standardize/specifications around BBS+ and or revocations
+    - Hyperledger still misses certain aspects 
+- Who is on TSC
+    - maybe one vote per chair
+    - proposing names to have a chair (by email)
+        - chair to be someone for a year
+- Endorsement Topic discussion 
+    - use DIF to endorse a tech in a juridistiction
+    - is this something TSC would approve
+- TSC mailing list
+
+## Meeting - 31 March 2021 - (1300 ET)
+
+### Agenda
+
+- First TSC meeting: 
+- Discussions: 
+    - Certifications at DIF? 
+        - Hosting some kind of conformance testing as part of Universal Resolver project could serve as a **“Soft Certification”** of DID methods? 
+            - A badge, a proof of testing that would run daily to check
+        - **More explicit certification** based on multiple ongoing/public conformance tests?
+            - DIF approved "rubric" to compare DID methods
+        - People are generally supportive of some kind of testable/objective trustmark (partic if UR already does automated conformance testing)
+            - caution about calling it DIF Certification
+    - Formalizing donation process
+        - governance of a repo once donated? when a repo gets as far as being a sample impl or ref impl, who decides on PRs? Just admins? Is DIF trying to host production code or just reference code?
+            - OS vs foundation-governed
+            - Contributor, leadership role on Work Item after its donation?
+    - Escalation mechanism- if WG Chairs disagree about a PR or direction change, they could escalate to TSC
+                    - unlikely to happen often,
+        - minimum size? minimum members?
+            - lower barrier to entry and get people generating new items in DIF?
+            - more stringent on archiving stale items rather than raising barriers to starting new work items
+        - 2 companies to start original work item?
+            - does this fit the low barrier goal?
+        - Work items can only be under Working Groups
+            - WG chairs and group must approve the work item before it starts
+                - this create an opportunity to champion the cause
