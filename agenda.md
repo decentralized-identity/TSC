@@ -7,6 +7,30 @@ _For this call, you are encouraged to turn your video on. This is a good way to 
 
 _The term "WG" stands for Working Group_
 
+## Meeting - 12 May 2022 - (1300 ET)
+
+### present: Sam C, Juan, Troy, Daniel B, Daniel M, Steve, Markus, Brent, Chris, Paul
+
+- DIF Updates
+- Github Access discussion
+    - *Is a process required ?*
+    - An Audit be completed ASAP to highlight access issues (current WG Chairs without access etc.)
+    - Updated onboarding and offboarding process in Chair guides
+    - Standardise repo layouts (CODEOWNERS etc.)
+    - Fix Sam's access ASAP
+- Registries discussion
+    - Things to be transparent about: ready-for-use, prod-ready, etc
+    - DIF Registries are not an endorsement
+    - What is the process to update and any governance for this documentation ?
+    - Guard rails for governence to be defined by TSC to ensure clarity on when to obtain approval (*DIF approves xxx*)
+    - DIDComm Org is a good example of what good might look like 
+    - How do we control recommendations to remain unbiased - these things exist versus these things are good
+    - How do we determine which repositiories are able to have non-DIF members contribute (PRs etc.) )
+    - **More discussion in next TSC meeting - cover live-docs also**
+
+- TSC Chair - election process and timing
+    - async update, formal process in next meeting
+
 ## Meeting - 24 November 2021 - (1300 ET)
 
 ### present: Kaliya, Kyle, Juan, Sam, Brent, Troy, Paul, Dmitri, Rouven, Chris, Balazs
