@@ -6,8 +6,27 @@ _This is a Technical Steering Committee call. Only active members of the TSC (as
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
 _The term "WG" stands for Working Group_
+## Meeting (#15) - 25 May 2022 - (1300 ET)
 
-## Meeting - 12 May 2022 - (1300 ET)
+### present:
+
+- DIF Updates
+    - Github templates
+        - Background and updates from last meeting [in this PR](https://github.com/decentralized-identity/org/pull/17/files)
+        - [Template for registry work items](https://github.com/decentralized-identity/template-for-registry-workitems)
+        - [Template for profile work items](https://github.com/decentralized-identity/template-for-profile-workitems)
+        - Onboarding process has been updated
+        - Github owner permissions - WG level or Org level for admin ?
+     - TSC Election
+         - Scheduled for July, can nominate now (including self nomination) -> nominations@identity.foundation
+         - Process to be discussed and added to [TSC Chair Guidelines](https://github.com/decentralized-identity/org/blob/master/chair_guidelines.md#-procedural-considerations) 
+
+- Ongoing registries discussion
+    - Live Docs
+
+
+
+## Meeting (#14) - 12 May 2022 - (1300 ET)
 
 ### present: Sam C, Juan, Troy, Daniel B, Daniel M, Steve, Markus, Brent, Chris, Paul
 
