@@ -8,22 +8,26 @@ _For this call, you are encouraged to turn your video on. This is a good way to 
 _The term "WG" stands for Working Group_
 ## Meeting (#15) - 25 May 2022 - (1300 ET)
 
-### present:
+### present: Troy, Brent, Daniel M, Markus, Kaliya, Juan, Limari, Chris, Paul
 
 - DIF Updates
+    - Welcome to Limari Navarette, DIF's new Community Manager
+    - APAC/ASEAN call now a joint DIF & ToIP initative, launches 26th May 2022
     - Github templates
         - Background and updates from last meeting [in this PR](https://github.com/decentralized-identity/org/pull/17/files)
         - [Template for registry work items](https://github.com/decentralized-identity/template-for-registry-workitems)
         - [Template for profile work items](https://github.com/decentralized-identity/template-for-profile-workitems)
         - Onboarding process has been updated
-        - Github owner permissions - WG level or Org level for admin ?
+        - Github owner permissions - proposed WG level for admin
      - TSC Election
-         - Scheduled for July, can nominate now (including self nomination) -> nominations@identity.foundation
+         - Scheduled for July, can nominate now (including self nomination) -> [nominations@identity.foundation](mailto:nominations@identity.foundation)
+         - Voting in July, one vote per WG/SIG etc.
          - Process to be discussed and added to [TSC Chair Guidelines](https://github.com/decentralized-identity/org/blob/master/chair_guidelines.md#-procedural-considerations) 
 
 - Ongoing registries discussion
-    - Live Docs
-
+    - Process covered in Work Items List markdown in DIF Org repository 
+    - [Template for registry work items](https://github.com/decentralized-identity/template-for-registry-workitems)
+    - Will follow up next meeting to see if any use cases exist for Live Docs requirement
 
 
 ## Meeting (#14) - 12 May 2022 - (1300 ET)
