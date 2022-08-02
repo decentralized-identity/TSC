@@ -6,6 +6,41 @@ _This is a Technical Steering Committee call. Only active members of the TSC (as
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn._
 
 _The term "WG" stands for Working Group_
+
+## Meeting (#17) - 27 July 2022 - (1300 ET)
+
+### present: Daniel M, Brent, Troy, Juan, Kaliya, Sam, Oliver, Martin, Limari, Chris, Paul
+- DIF Updates
+    - Two new Community Calls
+        - New member Orientation calls and Feedback calls
+    - Organizational changes
+        - Review of Chair lists (mailing lists, Website etc.)
+    - Community Feedback - hard to tell which groups are active
+        - How to treat inactive groups (how to identify and make it obvious, Github, Website, Mailing Lists etc.)
+        - KERI is one obvious group, it is a part of I&D for ongong work (as a work item)
+    - Wallet Security needs a new chair 
+        - Chair turnover - how do we get early warning and a consistent process to apply (Chair Guide)
+    - ### TSC Election ###
+        - ### Congratulations Daniel McGrogan - new chair 🚀 !! ###
+    - DIDComm Ratification - process complete and spec updated
+
+- #### New Business agenda items ####
+
+    - Presentation Exchange Spec
+        - Discussion on if there is any user feedback on anything that needs to change about the registry process
+        -  Feedback that a major trade org is having to store libraries to be able to retain all of their registries
+        
+
+## Meeting (#16) - 22 June 2022 - (1300 ET)
+
+### present: Troy, Daniel M, Steve, Sam, Markus, Limari, Chris, Paul
+- DIF Updates
+    - TSC Election - nominations are open (each WG to nominate one candidate) - simply email nominations your prefered candidate and your WG.
+    - GitHub permissions, removing Admin users this week and facilitating access at a WG Chair level (currently maintainer - please advise if you need Admin access)
+- New Business agenda items
+    - DIDComm ratification?
+    - pres-ex registry thoughts?
+ 
 ## Meeting (#15) - 25 May 2022 - (1300 ET)
 
 ### present: Troy, Brent, Daniel M, Markus, Kaliya, Juan, Limari, Chris, Paul
