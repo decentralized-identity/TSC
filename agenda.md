@@ -39,8 +39,9 @@ _The term "WG" stands for Working Group_
     - GitHub permissions, removing Admin users this week and facilitating access at a WG Chair level (currently maintainer - please advise if you need Admin access)
 - New Business agenda items
     - DIDComm ratification?
-    - pres-ex registry thoughts?
- 
+    - presex registry thoughts?
+
+
 ## Meeting (#15) - 25 May 2022 - (1300 ET)
 
 ### present: Troy, Brent, Daniel M, Markus, Kaliya, Juan, Limari, Chris, Paul
